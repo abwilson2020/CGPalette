@@ -4,7 +4,7 @@
 
 ## Demonstration
 
-![alt text](https://github.com/ezlearner2018/ezlearner2018.github.io/blob/master/bot%20icon%2064x64.jpg "Bot Icon")
+![alt text](https://github.com/abwilson2020/CGPalette/blob/master/2.jpg "sample output")
 
 ## Getting Started
 
