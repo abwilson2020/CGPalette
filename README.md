@@ -1,6 +1,6 @@
 # CGPalette
 
-- A twitter bot which replies on regularly scheduled intervals with a randomly generated color palette based on various palette types.
+- A twitter bot which replies on regularly scheduled intervals with a randomly generated color palette based on various palette types. Hex codes are added to the base to make finding the colors in the palette easy.
 
 ## Demonstration
 
