@@ -4,7 +4,8 @@
 
 ## Demonstration
 
-![alt text](https://github.com/abwilson2020/CGPalette/blob/master/2.jpg "sample output")
+- A sample output of two of the possible color palettes it can generate
+![alt text](https://github.com/abwilson2020/CGPalette/blob/master/sample%20output.jpg "sample output")
 
 ## Getting Started
 
